@@ -3,11 +3,11 @@
 
 Email Me 👉 ✉️ **abhisinghshakya1289@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🔭 **I’m currently working As a Training on:**  Somtex Technologies
+- 🌱 **I’m currently learning:** PHP 
+- 👯 **I’m looking to collaborate on:** Forum Website
+- 🤔 **I’m looking for help with:** Forums
+- 💬 **Ask me about:** Releted to my Domain
 - 📫 **How to reach me:** abhisinghshakya1289@gmail.com
 - 😄 **Pronouns:** Abhishek Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
